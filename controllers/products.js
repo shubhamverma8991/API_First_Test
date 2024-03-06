@@ -54,9 +54,11 @@ const getAllProductsTesting = async (req, res) => {
 
 const createProduct = async (req, res) => {
   try {
-    console.log("createProduct call", req.body);
+    // console.log("createProduct call", req.body);
     const newProduct = await ProductModel.create(req.body);
-    res.status(201).json(newProduct);
+    res
+      .status(201)
+      .json({ message: "Product added successfully", product: newProduct });
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
