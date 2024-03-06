@@ -4,6 +4,9 @@ const app = express();
 const connectDB = require("./db/connect");
 const PORT = process.env.PORT || 8991;
 
+// parse Json data
+app.use(express.json());
+
 const product_routes = require("./routes/product");
 
 app.get("/", (req, res) => {
