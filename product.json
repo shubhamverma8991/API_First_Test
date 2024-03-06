@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Redmi",
+    "price": 218,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "Smart TV",
+    "price": 1320,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "MacBook",
+    "price": 1648,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "Galaxy",
+    "price": 2469,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Mi Band",
+    "price": 2282,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "iPhone",
+    "price": 2082,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "Smart TV",
+    "price": 2223,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "MacBook",
+    "price": 741,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Redmi",
+    "price": 862,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "Galaxy",
+    "price": 296,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Mi Band",
+    "price": 2815,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "iPhone",
+    "price": 295,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Smart TV",
+    "price": 1691,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Galaxy",
+    "price": 1118,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Mi Band",
+    "price": 2855,
+    "featured": false,
+    "company": "Mi"
+  },
+  {
+    "name": "Redmi",
+    "price": 2971,
+    "featured": false,
+    "company": "Mi"
+  },
+  {
+    "name": "iPhone",
+    "price": 1410,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "MacBook",
+    "price": 2047,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "Smart TV",
+    "price": 2348,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Galaxy",
+    "price": 2044,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Mi Band",
+    "price": 53,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "Redmi",
+    "price": 2847,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "MacBook",
+    "price": 1460,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "iPhone",
+    "price": 1035,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Smart TV",
+    "price": 2050,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Galaxy",
+    "price": 2225,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Mi Band",
+    "price": 2050,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "Redmi",
+    "price": 1153,
+    "featured": false,
+    "company": "Mi"
+  },
+  {
+    "name": "iPhone",
+    "price": 1706,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "MacBook",
+    "price": 2395,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Smart TV",
+    "price": 2815,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Galaxy",
+    "price": 2970,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Mi Band",
+    "price": 1654,
+    "featured": false,
+    "company": "Mi"
+  },
+  {
+    "name": "Redmi",
+    "price": 1834,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "iPhone",
+    "price": 2162,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "MacBook",
+    "price": 695,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "Smart TV",
+    "price": 2976,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Galaxy",
+    "price": 1765,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Mi Band",
+    "price": 1032,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "Redmi",
+    "price": 1236,
+    "featured": false,
+    "company": "Mi"
+  },
+  {
+    "name": "iPhone",
+    "price": 1893,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "MacBook",
+    "price": 1537,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Smart TV",
+    "price": 936,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Galaxy",
+    "price": 1438,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Mi Band",
+    "price": 167,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "Redmi",
+    "price": 1531,
+    "featured": false,
+    "company": "Mi"
+  },
+  {
+    "name": "iPhone",
+    "price": 2959,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "MacBook",
+    "price": 2911,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "Smart TV",
+    "price": 898,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Galaxy",
+    "price": 936,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Mi Band",
+    "price": 1999,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "Redmi",
+    "price": 394,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "iPhone",
+    "price": 1821,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "MacBook",
+    "price": 2044,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "Smart TV",
+    "price": 2274,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Galaxy",
+    "price": 1798,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Mi Band",
+    "price": 394,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "Redmi",
+    "price": 720,
+    "featured": false,
+    "company": "Mi"
+  },
+  {
+    "name": "iPhone",
+    "price": 1591,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "MacBook",
+    "price": 1957,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "Smart TV",
+    "price": 1150,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Galaxy",
+    "price": 1227,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Mi Band",
+    "price": 2549,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "Redmi",
+    "price": 2882,
+    "featured": true,
+    "company": "Mi"
+  },
+  {
+    "name": "iPhone",
+    "price": 1908,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "MacBook",
+    "price": 2433,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "Smart TV",
+    "price": 2307,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Galaxy",
+    "price": 1809,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Mi Band",
+    "price": 427,
+    "featured": false,
+    "company": "Mi"
+  },
+  {
+    "name": "Redmi",
+    "price": 1868,
+    "featured": true,
+    "company": "Mi"
+  }
+]
